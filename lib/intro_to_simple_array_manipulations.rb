@@ -27,7 +27,11 @@ def using_pop(array)
  end
  
  def using_insert(list, string)
+<<<<<<< HEAD
    list.insert(4, string)
+=======
+   list.insert(string = 4)
+>>>>>>> b3d6d25198a14189aeb34b0cd57dc602fdcc8a0f
  end
  
  def using_uniq(haircuts) 
